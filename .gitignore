@@ -1,0 +1,5 @@
+node_modules
+
+# History and visual code files
+.history
+.vscode

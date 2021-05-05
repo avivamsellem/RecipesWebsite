@@ -1,0 +1,45 @@
+{
+  "name": "attack-on-recipes",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "start": "vue-cli-service serve main.js",
+    "front": "vue-cli-service serve main.js",
+    "build_task": "vue-cli-service build main.task.js",
+    "build_solution": "vue-cli-service build main.js",
+    "deploy": "gh-pages -d RecipesWebiste"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "babel-eslint": "^10.0.2",
+    "bootstrap": "^4.5.0",
+    "bootstrap-vue": "^2.15.0",
+    "core-js": "^3.6.5",
+    "homepages": "https://avivamsellem.github.io/RecipesWebsite",
+    "gh-pages": "^3.1.0",
+    "i": "^0.3.6",
+    "vue": "^2.6.11",
+    "vue-axios": "^2.1.5",
+    "vue-cli": "^2.9.6",
+    "vue-cookies": "^1.7.2",
+    "vue-navigation-bar": "^3.0.0",
+    "vue-router": "^3.2.0",
+    "vue-select": "3.10.7",
+    "vuelidate": "^0.7.5",
+    "vuetify": "^2.0.1"
+  },
+  "devDependencies": {
+    "@vue/cli-plugin-babel": "~4.4.0",
+    "@vue/cli-plugin-eslint": "~4.4.0",
+    "@vue/cli-plugin-router": "~4.4.0",
+    "@vue/cli-service": "~4.4.0",
+    "@vue/eslint-config-prettier": "^6.0.0",
+    "eslint": "^6.7.2",
+    "eslint-plugin-prettier": "^3.1.3",
+    "eslint-plugin-vue": "^6.2.2",
+    "node-sass": "^4.14.1",
+    "prettier": "^1.19.1",
+    "sass-loader": "^8.0.2",
+    "vue-template-compiler": "^2.6.11"
+  }
+}
