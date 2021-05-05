@@ -37,7 +37,7 @@ Key Points About The Website:
 </ul>
 </p>
 <p>
-Enter the website <a href="https://avivamsellem.github.io/RecipesWebsite/" target="_blank">here</a>
+Enter the website <a href="https://curiey.github.io/Recipes-Front/#/" target="_blank">here</a>
 </p>
 <p>
 Some pictures from the website:<br><br>
