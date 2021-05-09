@@ -37,7 +37,7 @@ Key Points About The Website:
 </ul>
 </p>
 <p>
-<a href="https://i.ibb.co/w7yHjtm/enter-site-button1.png" target="_blank"> <img src="https://i.ibb.co/w7yHjtm/enter-site-button1.png" alt="Enter Site" width="200" height="96"/> </a> 
+<a href="https://app.swaggerhub.com/apis-docs/Curiey/WDE/1.1.1" target="_blank"> <img src="https://i.ibb.co/w7yHjtm/enter-site-button1.png" alt="Enter Site" width="200" height="96"/> </a> 
 </p>
 <p>
 Some pictures from the website:<br><br>
